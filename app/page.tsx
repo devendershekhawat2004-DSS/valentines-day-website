@@ -153,7 +153,7 @@ export default function ValentineProposal() {
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-primary">
-            Soumya Sadeva, Will You Be My Valentine? 💝
+            Soumya Sachdeva, Will You Be My Valentine? 💝
           </h1>
 
           <p className="text-lg md:text-xl text-foreground leading-relaxed">
